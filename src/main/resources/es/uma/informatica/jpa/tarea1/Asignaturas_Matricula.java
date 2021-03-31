@@ -11,7 +11,7 @@ import javax.persistence.*;
 
 public class Asignaturas_Matricula implements Serializable {
 
-	
+	@ID
 	private static final long serialVersionUID = 1L;
 
 	public Asignaturas_Matricula() {
